@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: gainsboro;
 }
 hr {
   background-color: none;
@@ -10,8 +10,4 @@ hr {
 }
 img {
   border-radius: 50%;
-}
-
-h1, h3 {
-   color: blue;
 }
