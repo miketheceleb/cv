@@ -1,13 +1,16 @@
-    body {
-      background-color: powderblue;
-    }
-    hr {
-      background-color: none;
-      border-style: dotted none none;
-      border-color: black;
-      border-width: 5px;
-      width: 50%;
-    }
-    img {
-      border-radius: 50%;
-    }
+body {
+  background-color: powderblue;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 5px;
+  width: 50%;
+}
+img {
+  border-radius: 50%;
+}
+h1, h2, h3 {
+  color: blue;
+}
